@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFacebook</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="home">Home</string>
+    <string name="friend">Friend</string>
+    <string name="account">My Account</string>
+</resources>
